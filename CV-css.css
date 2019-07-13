@@ -1,0 +1,41 @@
+body {font-family: "Roboto", sans-serif;background-image:url("https://www.solidbackgrounds.com/images/1280x720/1280x720-teal-deer-solid-color-background.jpg")} 
+div#body{border: solid;width: 80%;
+  position: relative;
+  height: 100%;left: 140px}
+ div#d1{ border: 3px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 160px;font-size: 120%}
+img{ border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px,}
+div#Cont{ 
+  width: 80%;
+  position: relative;
+  height: 100%; font-size: 110%;
+  overflow: auto}
+  div#WE{ border: 10px double black; font-size: 110%;
+  padding: 25px;}
+  div#EDU{ border: 10px double black; font-size: 110%;
+  padding: 25px; }
+   div#cert{border: 10px double black; font-size: 110%;
+  padding: 25px;}
+div#left{border: 10px double black; font-size: 110%;
+  padding: 25px;}
+  div#right{border: 10px double black; font-size: 110%;
+  padding: 25px;}
+
+ul{list-style-type: square;overflow: auto;height: 140px}
+ol:{list-style-type: upper-roman}
+th,td {
+  height: 50px;
+  vertical-align: bottom;overflow: auto
+}
+li{overflow: auto}
+table{border-collapse: collapse;overflow: auto}
+h2{ text-decoration-line: underline;
+  text-decoration-style: double;text-decoration-color:navy}
+
+
+
