@@ -2,10 +2,10 @@ body {font-family: "Roboto", sans-serif;background-image:url("https://www.solidb
 div#body{border: solid;width: 80%;
   position: relative;
   height: 100%;left: 140px}
- h1:hover{ border: 10px solid #ddd;
-  border-radius: 20px;
-  color: white;
-  font-size: 150%}
+ h1:hover { 	background-color: white;
+						width: 38%;
+						color: grey;
+						font-family: 'Open Sans', sans-serif }
  div#d1{ border: 3px solid #ddd;
   border-radius: 8px;
   padding: 20px;
