@@ -2,6 +2,11 @@ body {font-family: "Roboto", sans-serif;background-image:url("https://www.solidb
 div#body{border: solid;width: 80%;
   position: relative;
   height: 100%;left: 140px}
+ div#d1:hover{ border: 10px solid #ddd;
+  border-radius: 20px;
+  color: white;
+  padding: 20px;
+  width: 160px;font-size: 150%}
  div#d1{ border: 3px solid #ddd;
   border-radius: 8px;
   padding: 20px;
